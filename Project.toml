@@ -1,0 +1,17 @@
+name = "SoapyBladeRF_jll"
+uuid = "80aee790-0d4a-5951-bcd6-30e0bbfe317a"
+version = "0.4.2+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+BladeRFHardwareDriver_jll = "ddcda2f0-0770-5eff-b02e-03a583a735ee"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+soapysdr_jll = "343a40d9-ed99-5d34-8b56-649aaa4ecee6"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+BladeRFHardwareDriver_jll = "2.4.1"
+soapysdr_jll = "0.8.0"

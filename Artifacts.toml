@@ -1,0 +1,127 @@
+[[SoapyBladeRF]]
+arch = "aarch64"
+git-tree-sha1 = "fd1bbcb88889e349e7402777eba6cffdf09ed94a"
+os = "macos"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "1bc3617db09571ff4c36a93cbe4bd89cd96d6497e105f2e6e1d262ae4a65a997"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.aarch64-apple-darwin.tar.gz"
+[[SoapyBladeRF]]
+arch = "aarch64"
+git-tree-sha1 = "7486156ffbbe4439c71f885668e9c8dfcc0c7a0a"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "03638940370e1af0b61f9564437b9562902cb778857eec109b3498a81c45b38e"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.aarch64-linux-gnu.tar.gz"
+[[SoapyBladeRF]]
+arch = "aarch64"
+git-tree-sha1 = "de49fb202ead989ea5b6328c012d47af43cd1793"
+libc = "musl"
+os = "linux"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "e2fb6d7b00b041c58b1aed4279b3d8bcf8e724133008a85158931e7f217aa9fb"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.aarch64-linux-musl.tar.gz"
+[[SoapyBladeRF]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a184e2887bedc4cfb5c859d8b8cc2932546b53a6"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "7f0080d67133925093637147364612d6bc1a51faebaaa20e06248e98dfe8fce4"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.armv6l-linux-gnueabihf.tar.gz"
+[[SoapyBladeRF]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d1803d9a9f3280d48a36b24122a723fa6c6c1747"
+libc = "musl"
+os = "linux"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "6f96a630929f13dedb8682aeed4d4c7b0bb29123b5a1405a7f7145686d628ada"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.armv6l-linux-musleabihf.tar.gz"
+[[SoapyBladeRF]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0fbd751c162edd33fd8fb92c2cb6362263f09e0a"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "db74a66d059fb6c2507347253555c8457e23de2f4ae7989240d3a3ccc8711e54"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.armv7l-linux-gnueabihf.tar.gz"
+[[SoapyBladeRF]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c389549c50b4fdb72a78a8e5d385b724bb8f45c6"
+libc = "musl"
+os = "linux"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "aa5b7d8955a4e9de063c98105ab2f859279844edfb1126c6d7ffa043f24dccfd"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.armv7l-linux-musleabihf.tar.gz"
+[[SoapyBladeRF]]
+arch = "i686"
+git-tree-sha1 = "eeeb112f01e2803c2fa06487eaf2de5c49c9db42"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "8462f41929b200a5273fe6935426a6dc45b7482bc2c340f0f0e6d604590056f8"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.i686-linux-gnu.tar.gz"
+[[SoapyBladeRF]]
+arch = "i686"
+git-tree-sha1 = "a08baa93070730ad8f1de4f96be93ffb3165e696"
+libc = "musl"
+os = "linux"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "d953a62196fe02c73eb6ed11d82b5347134f698aaa8d3f0687421625c42677b6"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.i686-linux-musl.tar.gz"
+[[SoapyBladeRF]]
+arch = "powerpc64le"
+git-tree-sha1 = "c5cc4d422fcbc4cb392f8cbabb9ded7315525c2d"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "441d44af8d9b8378103249df5d9375580ed1821fd574a60bd50d35c723440c2c"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.powerpc64le-linux-gnu.tar.gz"
+[[SoapyBladeRF]]
+arch = "x86_64"
+git-tree-sha1 = "b83017d70fe7d56a3d2f4b0b947bd442ae69b6bc"
+os = "macos"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "ade0097e69d3858587911f87f9c76a3e8b2c81a431071f67365700d09fb7f7e6"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.x86_64-apple-darwin.tar.gz"
+[[SoapyBladeRF]]
+arch = "x86_64"
+git-tree-sha1 = "827c355d59bd4f3103a8f2d76fc03d78ebd51049"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "cb06365c09ac1b25334c86dfc29e03293e83a131fad95f5e1e0bcbb2fe71c4b3"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.x86_64-linux-gnu.tar.gz"
+[[SoapyBladeRF]]
+arch = "x86_64"
+git-tree-sha1 = "c1616ecd1d0ec8992e310dd18234ddb200223784"
+libc = "musl"
+os = "linux"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "5f2fd93c02594b64d5288f00f891c11cc142415887cbaf779d4a7758c14a7fad"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.x86_64-linux-musl.tar.gz"
+[[SoapyBladeRF]]
+arch = "x86_64"
+git-tree-sha1 = "692b3965d8401f091d7c59bea40eece887d8ebb3"
+os = "freebsd"
+
+    [[SoapyBladeRF.download]]
+    sha256 = "2e836ff47242d87828830e4ed97addeb8b3b21a296a3e47dc4f57d0805289e8b"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyBladeRF_jll.jl/releases/download/SoapyBladeRF-v0.4.2+0/SoapyBladeRF.v0.4.2.x86_64-unknown-freebsd.tar.gz"
